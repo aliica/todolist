@@ -1,12 +1,11 @@
-/*effet sur l'ensemble de la nav*/
-nav ul{
+						/*modification on the nav aspect*/
+	nav ul{
 	padding:0px;
 	margin:0px;
 	list-style-type:none;
 	background-color: black;
 }
-/*effet sur chacune des case de la nav*/
-nav li{
+	nav li{
 	display: inline-block;
 	width: 100px;
 	height: 40px;
@@ -16,34 +15,30 @@ nav li{
 	text-align: center;
 	line-height: 40px;
 }
-/*effet sur l'écrtiture des cases de la nav*/
-nav li a {
+	nav li a {
 	text-decoration: none;
 	color:#FFFFFF;
 }
-/*effet sur le passage de la souris au dessus des écritures*/
-nav li :hover{
+	nav li :hover{
 	background-color: #3388BB;
 	font-size: 20px;
 	font-style: italic;
 	text-decoration: underline;
-
 }
- h2{
+						/*modification of the title of the page*/
+ 	h2{
  	text-align: center;
  	color: red;
  	font-style: bold;
  	text-decoration: underline;
  }
-
-div{
+						/*modification of the todolist*/
+	div{
 	text-align: center;
 	font-family: Verdana;
 	font-size: 20px;
-
 }
-div li :hover{
+	div li :hover{
 	font-size: italic;
 	text-decoration: 
-
 }
